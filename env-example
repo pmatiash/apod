@@ -1,0 +1,5 @@
+DB_HOST=mongodb://127.0.0.1:27017
+DB_NAME=apod
+
+API_HOST=https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+START_DATE=2015-01-01
