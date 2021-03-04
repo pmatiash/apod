@@ -20,4 +20,4 @@ All modules have been placed into the same repository for simplicity.
 * MongoDB
 
 ## Executing
-To execute import process use ./dailyimport/dailyimport
+To execute import process use `./bin/dailyimport`
